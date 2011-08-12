@@ -65,7 +65,7 @@ hi Keyword                   guifg=#CC7833 ctermfg=173 cterm=NONE
 hi link Include              Statement
 hi link PreCondit            Statement
 
-hi LineNr                    guifg=#595959 ctermfg=243 guibg=#2b2b2b ctermbg=235
+hi LineNr                    guifg=#303030 ctermfg=236 guibg=#2b2b2b
 hi String                    guifg=#A5C261 ctermfg=107
 hi link Number String
 hi PreProc                   guifg=#E6E1DC ctermfg=103
