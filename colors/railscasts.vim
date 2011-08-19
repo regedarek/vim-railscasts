@@ -65,7 +65,7 @@ hi Keyword                   guifg=#CC7833 ctermfg=173 cterm=NONE
 hi link Include              Statement
 hi link PreCondit            Statement
 
-hi LineNr                    guifg=#303030 ctermfg=236 guibg=#2b2b2b
+hi LineNr                    guifg=#303030 ctermfg=236
 hi String                    guifg=#A5C261 ctermfg=107
 hi link Number String
 hi PreProc                   guifg=#E6E1DC ctermfg=103
@@ -124,4 +124,5 @@ hi PmenuSel                  guifg=#000000 guibg=#A5C261 gui=NONE ctermfg=150 ct
 hi PMenuSbar                 guibg=#5A647E gui=NONE ctermbg=66  cterm=NONE
 hi PMenuThumb                guibg=#AAAAAA gui=NONE ctermbg=248 cterm=NONE
 
-hi LongLine                  guibg=#444444 ctermbg=235
+" Vim 7.3+
+hi ColorColumn               guibg=#444444 ctermbg=235
